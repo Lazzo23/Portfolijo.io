@@ -2173,7 +2173,7 @@ header .header-logo a {
 	background-color: #1f0e01;
 	background-image: url(../images/lazzo.png);
 	background-repeat: no-repeat;
-	background-position: left;
+	background-position: center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
